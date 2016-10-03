@@ -26,6 +26,11 @@ a:hover {
 	background-color: #ee5f3c;
 }
 
+img {
+	height: 200px;
+width: 150px;
+}
+
 .board {
 height: 50%;
 width: 50%;
